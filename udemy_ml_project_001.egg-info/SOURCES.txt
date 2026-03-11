@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/__init__.py
+udemy_ml_project_001.egg-info/PKG-INFO
+udemy_ml_project_001.egg-info/SOURCES.txt
+udemy_ml_project_001.egg-info/dependency_links.txt
+udemy_ml_project_001.egg-info/requires.txt
+udemy_ml_project_001.egg-info/top_level.txt
