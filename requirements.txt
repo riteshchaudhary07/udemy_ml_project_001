@@ -1,4 +1,20 @@
-pandas
 numpy
+pandas
+matplotlib
 seaborn
--e .
+scikit-learn
+xgboost
+catboost
+lightgbm
+scipy
+dill
+joblib
+flask
+streamlit
+requests
+pyyaml
+tqdm
+ipykernel
+jupyter
+notebook
+#-e .

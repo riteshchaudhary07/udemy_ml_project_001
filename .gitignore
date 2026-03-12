@@ -4,3 +4,31 @@ __pycache__/
 .DS_Store
 *.pyc
 .ipynb_checkpoints/
+.artifacts
+# Virtual environment
+venvv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML pipeline outputs
+artifacts/
+
+# logs
+logs/
+
+# packaging
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/

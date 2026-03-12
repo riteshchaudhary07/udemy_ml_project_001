@@ -1,6 +1,5 @@
 import sys
 
-
 def error_message_detail(error, error_detail: sys):
     _, _, exc_tb = error_detail.exc_info()
 
@@ -27,10 +26,3 @@ class CustomException(Exception):
 
     def __str__(self):
         return self.error_message
-    from src.exception import CustomException
-import sys
-
-try:
-    a = 1 / 0
-except Exception as e:
-    raise CustomException(e, sys)
